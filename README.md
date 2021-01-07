@@ -1,2 +1,2 @@
 # monikaratan.github.io
-Redirects to my personal website [https://monikaratan.in/](https://monikaratan.in/)
+Redirects to my personal website [https://monikaratan.com/](https://monikaratan.com/)
